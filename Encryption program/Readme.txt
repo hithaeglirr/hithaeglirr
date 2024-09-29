@@ -1,5 +1,5 @@
 Hello!
-This is a simple program created by Andrei Raul Oltean. 
+This is a simple program created by @hithaeglirr. 
 Everything in this app was made by me, including the logo. Even though it is not trademarked, i would ask that you respect its artistic integrity, however
 little it may be.
 
